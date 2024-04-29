@@ -33,6 +33,7 @@ body {
 }
 
 .ContactInfo {
+    text-align:center;
     font-family: 'Trebuchet MS';
     font-size: 20px;
     text-align: left;
